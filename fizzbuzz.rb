@@ -2,11 +2,11 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(integer)
 
-   if integer/15 == integer/15.0
+   if integer/15 == integer/15.0 then
      answer = "FizzBuzz"
-   elseif integer/3 == integer/3.0
+   elseif integer/3 == integer/3.0 then
      answer = "Fizz"
-   elseif integer/5 == integer/5.0
+   elseif integer/5 == integer/5.0 then
      answer = "Buzz"
   end
 end
