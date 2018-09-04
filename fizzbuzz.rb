@@ -3,7 +3,7 @@
 def fizzbuzz(integer)
 
    if integer/15 == integer/15.0
-     answer = "FizzBuzz" 
+     answer = "FizzBuzz"
    elseif integer/3 == integer/3.0
      answer = "Fizz"
    elseif integer/5 == integer/5.0
