@@ -4,7 +4,7 @@ def fizzbuzz(integer)
 
    if integer/15 == integer/15.0
       answer = "FizzBuzz"
-   else 
+   else
       if integer/3 == integer/3.0
          answer = "Fizz"
       else
