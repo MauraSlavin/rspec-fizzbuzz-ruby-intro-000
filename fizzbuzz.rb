@@ -8,5 +8,5 @@ answer = String.new
   if integer/5 == integer/5.0
     answer = answer + "Buzz"
   end
-
+answer
 end
