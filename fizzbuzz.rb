@@ -2,10 +2,10 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(integer)
 answer = String.new
-  if number/3 == number/3.0
+  if integer/3 == integer/3.0
     answer = answer + "Fizz"
   end
-  if number/5 == number/5.0
+  if integer/5 == integer/5.0
     answer = answer + "Buzz"
   end
 
